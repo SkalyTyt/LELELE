@@ -37,6 +37,7 @@ margin-right: 49px;
     margin-left: 144px;
     margin-top: 64px;
     display: flex;
+    margin: 0 auto;
 }
 .info h1 {
     font-size: 36px;
@@ -350,6 +351,7 @@ header {
     color: white;
 
 }
+
 
 
 
