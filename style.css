@@ -42,6 +42,7 @@ margin-right: 49px;
 }
 .green {
     color: #4CAF4F;
+    font-weight: bold;
 }
 .info p {
     margin-top: 30px;
@@ -110,6 +111,7 @@ footer{
     color: #263238;
     font-size: 64px;
     text-align: center;
+    background-color: #F5F7FA;
 }
 
 .button__1{
@@ -341,6 +343,7 @@ header {
     color: white;
 
 }
+
 
 
 
