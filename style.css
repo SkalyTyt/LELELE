@@ -38,6 +38,8 @@ margin-right: 49px;
     margin-top: 64px;
     display: flex;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 .info h1 {
     font-size: 36px;
@@ -351,6 +353,7 @@ header {
     color: white;
 
 }
+
 
 
 
