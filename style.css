@@ -3,7 +3,7 @@
 ::after{
     
 }
-.body {
+body {
     width: 100%;
     font-family: "Inter", sans-serif;
 }
@@ -338,4 +338,5 @@ header {
     color: white;
 
 }
+
 
