@@ -111,7 +111,7 @@ footer{
     text-align: center;
 }
 
-button__1{
+.button__1{
     background-color: #4CAF4F;
     border: 0px white;
     border-radius: 4px;
@@ -338,3 +338,4 @@ header {
     color: white;
 
 }
+
