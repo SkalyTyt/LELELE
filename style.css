@@ -6,6 +6,8 @@
 body {
     width: 100%;
     font-family: "Inter", sans-serif;
+    margin: 0px;
+    padding: 0px;
 f
 }
 .img_first {
@@ -343,6 +345,7 @@ header {
     color: white;
 
 }
+
 
 
 
