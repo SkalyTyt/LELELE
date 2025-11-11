@@ -1,0 +1,57 @@
+header {
+    width: 100%;
+    height: 60px;
+}
+.header_v {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 100px;
+    
+}
+
+.logo_1 {
+    width: 100%;
+    height: 100%;
+}
+
+.menu-nav {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
+
+.button {
+    display: flex;
+    background-color: #4CAF4F;
+    border-radius: 10px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.login {
+    align-items: center;
+    margin-left: auto;
+    margin-right: 100px;
+    display: flex;
+    gap: 24px;
+}
+
+.dlgap {
+    display: flex;
+    gap: 50px;
+}
+
+.log {
+    color: #4CAF4F;
+}
