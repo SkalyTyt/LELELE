@@ -13,6 +13,9 @@ f
 .img_first {
 margin-right: 49px;
 }
+.up_footer {
+ background-color: #4CAF4F;
+}
 .first {
     color: black;
     margin-top: 80px;
@@ -346,6 +349,7 @@ header {
     color: white;
 
 }
+
 
 
 
