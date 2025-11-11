@@ -114,6 +114,7 @@ footer{
     font-size: 64px;
     text-align: center;
     background-color: #F5F7FA;
+    font-width: bold;
 }
 
 .button__1{
@@ -345,6 +346,7 @@ header {
     color: white;
 
 }
+
 
 
 
