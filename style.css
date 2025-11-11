@@ -1,0 +1,96 @@
+.body {
+    width: 100%;
+}
+.img_first {
+margin-right: 49px;
+}
+.first {
+    color: black;
+    margin-top: 80px;
+}
+.first_div {
+    display: flex;
+   position: relative;
+   margin-left: 144px;
+}
+.first_div button {
+    width: 151px;
+    height: 52px;
+    background-color: #4CAF4F;
+    border: 0px;
+    color: white;
+    border-radius: 4px;
+}
+.second {
+    margin-left: 144px;
+    margin-top: 64px;
+    display: flex;
+}
+.info h1 {
+    font-size: 36px;
+    margin-bottom: -30px;
+}
+.grey {
+    color: #4D4D4D;
+}
+.green {
+    color: #4CAF4F;
+}
+.info p {
+    margin-top: 30px;
+    font-size: 16px;
+}
+.info {
+    margin-right: 204px;
+}
+.fird {
+    margin-top: 48px;
+    margin-left: 144px;
+    display: flex;
+    position: relative;
+}
+.fird_pana {
+    margin-top: 30px;
+    margin-left: 49px;
+    color: #4D4D4D  ;
+}
+.fird_pana h1 {
+    font-size: 36px;
+}
+.fird_pana p{
+    font-size: 14px;
+    margin-top: -16px;
+}
+.tesla {
+    display: flex;
+    margin-top: 49px;
+    margin-left: 144px;
+}
+.tesla_text {
+    color: #717171;
+    margin-left: 78px;
+}
+.another {
+    color: #89939E;
+}
+.tesla_text img {
+    margin-top: 5px;
+}
+.cards {
+    text-align: center;
+    color: #4D4D4D;
+}
+.cards p {
+    font-size: 16px;
+}
+.cards h1 {
+    font-size: 36px;
+    margin-bottom: -10px;
+}
+.three_cards {
+    display: flex;
+    margin-left: 370px;
+}
+.three_cards img {
+    margin-right: 24px;
+}
