@@ -1,0 +1,95 @@
+
+.main1 {
+    justify-content: center;
+    display: flex;
+    gap: 105px;
+    background-color: #F5F7FA;
+}
+.main1-h1 {
+    width: 700px;
+    font-size: 80px;
+}
+.small-text1 {
+    font-size: 18px;
+}
+.main1-button {
+    font-size: 16px;
+    width: 158px;
+    height: 52px;
+    background-color: #4CAF4F;
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+}
+.green {
+    color: #4CAF4F;
+}
+
+.main2 {
+    text-align: center;
+}
+.h2-main2 {
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.small-text2 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.imgs-main2 {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.main3 {
+    text-align: center;
+    margin-top: 60px;
+}
+.h2-main3 {
+    font-size: 40px;
+    margin-bottom: 0px;
+    width: 550px;
+    margin: 0 auto;
+}
+.small-text3 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.blocks-main3 {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.block-main3 {
+    width: 300px;
+}
+.h2-block-main3 {
+    font-size: 40px;
+}
+.small-text-block-main3 {
+    font-size: 20px;
+}
+
+.main4 {
+    display: flex;
+    justify-content: center;
+}
+.text-main4 {
+    width: 560px;
+}
+.h2-main4 {
+    font-size: 40px;
+}
+.small-text4 {
+    font-size: 20px;
+}
+.button-main4 {
+    font-size: 16px;
+    width: 158px;
+    height: 52px;
+    background-color: #4CAF4F;
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+}
