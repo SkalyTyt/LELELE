@@ -353,6 +353,10 @@ header {
     color: white;
 
 }
+.input_first::placeholder {
+    color: white;
+}
+
 
 
 
