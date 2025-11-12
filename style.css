@@ -1,14 +1,10 @@
-*,
-::before,
-::after{
-    
-}
+
 body {
     width: 100%;
     font-family: "Inter", sans-serif;
     margin: 0px;
     padding: 0px;
-f
+
 }
 .img_first {
 margin-right: 49px;
@@ -61,7 +57,7 @@ margin-right: 49px;
 }
 .fird {
     margin-top: 48px;
-    margin-left: 144px;
+    margin-left: 344px;
     display: flex;
     position: relative;
 }
@@ -80,7 +76,8 @@ margin-right: 49px;
 .tesla {
     display: flex;
     margin-top: 49px;
-    margin-left: 144px;
+    margin-left: 384px;
+    margin-bottom: 49px;
 }
 .tesla_text {
     color: #717171;
@@ -90,7 +87,7 @@ margin-right: 49px;
     color: #89939E;
 }
 .tesla_text img {
-    margin-top: 5px;
+    margin-top: 32px;
 }
 .cards {
     text-align: center;
@@ -120,7 +117,7 @@ footer{
     font-size: 64px;
     text-align: center;
     background-color: #F5F7FA;
-    font-width: bold;
+    font-weight: bold;
 }
 
 .button__1{
@@ -163,9 +160,8 @@ footer{
 .footer_right .little{
     font-size: 14px;
     color: white;
-    text-align: center;
+    margin-left: 910px;
 }
-
 .footer_rr{
     margin-left: 500px;
     margin-top: 140px;
@@ -173,7 +169,7 @@ footer{
 
 .footer_rr .support{
     font-size: 20px;
-    margin-top: -350px;
+    margin-top: -355px;
     text-align: center;
     color: white;
 }
@@ -181,7 +177,7 @@ footer{
 .footer_rr .little{
     font-size: 14px;
     color: white;
-    text-align: center;
+    margin-left: 670px;
 }
 
 .inputs{
@@ -263,6 +259,8 @@ header {
     gap: 105px;
     background-color: #F5F7FA;
     height: 550px;
+    margin-top: 100px;
+    margin-bottom: 50px;
 }
 .main1-h1 {
     width: 700px;
@@ -286,6 +284,7 @@ header {
 
 .main2 {
     text-align: center;
+    margin-bottom:100px ;
 }
 .h2-main2 {
     font-size: 40px;
@@ -299,16 +298,19 @@ header {
     display: flex;
     justify-content: center;
     gap: 150px;
+    margin-top: 20px;
 }
 
 .main3 {
     text-align: center;
-    margin-top: 60px;
+    margin-top: 100px;
+    margin-bottom: 120px;
+
 }
 .h2-main3 {
     font-size: 40px;
     margin-bottom: 0px;
-    width: 550px;
+    width: 600px;
     margin: 0 auto;
 }
 .small-text3 {
@@ -321,10 +323,11 @@ header {
     gap: 200px;
 }
 .block-main3 {
-    width: 300px;
+    width: 350px;
 }
 .h2-block-main3 {
     font-size: 40px;
+    width: 320px;
 }
 .small-text-block-main3 {
     font-size: 20px;
@@ -333,6 +336,7 @@ header {
 .main4 {
     display: flex;
     justify-content: center;
+    gap: 209px;
 }
 .text-main4 {
     width: 560px;
@@ -341,7 +345,8 @@ header {
     font-size: 40px;
 }
 .small-text4 {
-    font-size: 20px;
+    font-size: 19px;
+    width: 780px;
 }
 .button-main4 {
     font-size: 16px;
@@ -355,7 +360,9 @@ header {
 }
 .input_first::placeholder {
     color: white;
+    padding-left: 5px;
 }
+
 
 
 
